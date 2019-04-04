@@ -1,6 +1,6 @@
 item {
   id: 1
-  name: 'pinhole'
+  name: '1'
 }
 item {
   id: 2
@@ -37,22 +37,6 @@ item {
 item {
   id: 10
   name: '0'
-}
-item {
-  id: 11
-  name: 'a'
-}
-item {
-  id: 11
-  name: 'a'
-}
-item {
-  id: 11
-  name: 'a'
-}
-item {
-  id: 11
-  name: 'a'
 }
 item {
   id: 11
@@ -262,5 +246,3 @@ item {
   id: 62
   name: 'Z'
 }
-
-
