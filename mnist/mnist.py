@@ -21,11 +21,11 @@ from absl import app as absl_app
 from absl import flags
 import tensorflow as tf  # pylint: disable=g-bad-import-order
 
-from official.mnist import dataset
-from official.utils.flags import core as flags_core
-from official.utils.logs import hooks_helper
-from official.utils.misc import distribution_utils
-from official.utils.misc import model_helpers
+import dataset
+from utils.flags import core as flags_core
+from utils.logs import hooks_helper
+from utils.misc import distribution_utils
+from utils.misc import model_helpers
 
 
 LEARNING_RATE = 1e-4
