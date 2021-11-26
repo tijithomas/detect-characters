@@ -1,2 +1,2 @@
 # dkube-apps
-Applications on DKube
+Character detection
