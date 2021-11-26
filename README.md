@@ -1,2 +1,2 @@
 # dkube-apps
-Character detection
+Character detection and classification
